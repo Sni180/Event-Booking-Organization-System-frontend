@@ -1,5 +1,5 @@
 
-This is the frontend for the Event Booking Management System developed in Visual Studio using react
+This is the frontend for the Event Booking Management System developed in Visual Studio using javascript, html, css
 
 
 # Getting Started with Create React App
